@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "sourceRoot": "./src/",
+        "outDir": "./public/",
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "module": "es6",
+        "target": "ES2017",
+        "allowJs": true,
+        "lib": ["es2015", "dom"]
+    }
+}

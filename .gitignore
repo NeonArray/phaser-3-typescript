@@ -1,0 +1,7 @@
+*.log
+node_modules
+public/assets/js
+.DS_Store
+yarn.lock
+.idea
+typings/phaser.d.ts

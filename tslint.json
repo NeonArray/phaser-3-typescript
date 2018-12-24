@@ -1,0 +1,13 @@
+{
+    "extends": ["tslint:all"],
+    "rules": {
+        "no-inferrable-types": false,
+        "no-unused-variable": false,
+        "quotemark": [true, "single"],
+        "no-import-side-effect": false,
+        "prefer-function-over-method": false,
+        "member-ordering": false,
+        "no-trailing-whitespace": false,
+        "no-magic-numbers": false
+    }
+}
