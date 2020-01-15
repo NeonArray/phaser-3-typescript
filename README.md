@@ -1,5 +1,7 @@
 # Phaser 3 Starter with TypeScript
 
+Use the official one instead https://github.com/photonstorm/phaser3-typescript-project-template
+
 This is a simple starter pack for Phaser 3 that incorporates Webpack and TypeScript. 
 
 
